@@ -1,2 +1,35 @@
-# acc102-perfect-world-analysis
-Financial analysis of Perfect World using WRDS/CSMAR data for ACC102 Track 2.
+# Should Paying Players Trust Perfect World for Long-Term Spending?
+
+## 1. Problem & User
+This project examines whether Perfect World appears financially strong enough to support stable long-term game operations compared with a refined peer group.
+The target users are paying players, gaming consumers, and entry-level entertainment industry observers who want a simple financial signal about long-term platform stability and spending risk.
+
+## 2. Data
+Source: WRDS / CSMAR financial master table and company table  
+Accessed on: 18 April 2026  
+Key fields: revenue, net income, total assets, total liabilities, operating cash flow
+
+## 3. Methods
+- Extract Perfect World annual financial data from WRDS/CSMAR
+- Clean the data to keep annual year-end observations only
+- Build a refined peer group using WRDS/CSMAR industry information and company-name filtering
+- Calculate five indicators: revenue growth, debt ratio, OCF/assets, net profit margin, and ROA
+- Compare Perfect World with the refined peer-group average
+
+## 4. Key Findings
+- Perfect World shows stronger average revenue performance than the refined peer-group average during this period
+- Perfect World has a lower average debt ratio than the peer group
+- Perfect World shows stronger operating cash flow support than the peer group
+- Overall, Perfect World appears financially stronger than the refined peer-group average in this analysis
+
+## 5. How to Run
+Open the notebook and run all cells from top to bottom.  
+WRDS access is required for full reproduction.
+
+## 6. Product Link / Demo
+Add your 1–3 minute demo video link here.
+
+## 7. Limitations & Next Steps
+- Company-level financial data cannot directly predict the future success of a specific game
+- The peer group is refined rather than the entire game industry
+- A future version could include game-level operational metrics and wider peer coverage

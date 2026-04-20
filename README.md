@@ -49,6 +49,7 @@ Open the notebook and run all cells from top to bottom.
 ## 6. Product Link / Demo
 
 ## 7. Limitations & Next Steps
-- Company-level financial data cannot directly predict the future success of a specific game
-- The peer group is refined rather than the entire game industry
-- A future version could include game-level operational metrics and wider peer coverage
+- This project uses company-level financial statement data rather than game-level operating data. As a result, it cannot directly predict whether a specific game will remain popular, continue updating, or retain market interest.
+- The peer group is refined using WRDS / CSMAR industry classification together with company-name filtering related to games, interactive entertainment, and digital culture. Although this improves relevance, it may still omit some comparable firms or include firms with mixed business models.
+- The final rule-based summary is intended as a communication tool rather than a formal predictive model. It provides a simplified financial signal, not a guarantee of future outcomes.
+- A future version of the project could include game-level indicators, a broader peer sample, and additional measures related to liquidity, market performance, or user activity.

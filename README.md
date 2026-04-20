@@ -44,11 +44,9 @@ The goal is to provide an accessible financial signal for users who care about l
 - Overall, Perfect World appears financially stronger than the refined peer-group average, although this should be interpreted as a financial signal rather than a guarantee of future game success.
 
 ## 5. How to Run
-Open the notebook and run all cells from top to bottom.  
-WRDS access is required for full reproduction.
+Open the notebook and run all cells from top to bottom. 
 
 ## 6. Product Link / Demo
-Add your 1–3 minute demo video link here.
 
 ## 7. Limitations & Next Steps
 - Company-level financial data cannot directly predict the future success of a specific game

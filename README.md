@@ -1,8 +1,10 @@
-# Should Paying Players Trust Perfect World for Long-Term Spending?
+# Should Paying Players Trust Perfect World for Long-Term Spending?  
+## A Financial Comparison with a Refined Peer Group
 
 ## 1. Problem & User
 This project examines whether Perfect World appears financially strong enough to support stable long-term game operations compared with a refined peer group.
-The target users are paying players, gaming consumers, and entry-level entertainment industry observers who want a simple financial signal about long-term platform stability and spending risk.
+
+The target users are paying players who spend money on in-game items, accounts, or other virtual content and care about whether their spending will continue to hold value over time. For these users, long-term platform stability matters because weaker financial support may reduce the likelihood of stable updates, active game ecosystems, and lasting market interest.
 
 ## 2. Data
 Source: WRDS / CSMAR financial master table and company table  

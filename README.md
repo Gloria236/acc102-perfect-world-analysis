@@ -7,10 +7,24 @@ This project examines whether Perfect World appears financially strong enough to
 The target users are paying players who spend money on in-game items, accounts, or other virtual content and care about whether their spending will continue to hold value over time. For these users, long-term platform stability matters because weaker financial support may reduce the likelihood of stable updates, active game ecosystems, and lasting market interest.
 
 ## 2. Data
-Source: WRDS / CSMAR financial master table and company table  
-Accessed on: 18 April 2026  
-Key fields: revenue, net income, total assets, total liabilities, operating cash flow
+The data used in this project come from WRDS / CSMAR, mainly the financial master table and the company table.
 
+The financial master table is used to extract Perfect World’s annual financial statement data and the financial data of the refined peer group. The company table is used to identify Perfect World’s industry classification and to help construct a more relevant peer group.
+
+The data were accessed on 18 April 2026.
+
+The key fields used in this project include:
+- revenue
+- net income
+- total assets
+- total liabilities
+- operating cash flow
+- company code
+- company name
+- accounting period
+- report type
+- industry classification
+- 
 ## 3. Methods
 - Extract Perfect World annual financial data from WRDS/CSMAR
 - Clean the data to keep annual year-end observations only

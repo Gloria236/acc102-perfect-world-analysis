@@ -24,7 +24,7 @@ The key fields used in this project include:
 - accounting period
 - report type
 - industry classification
-- 
+  
 ## 3. Methods
 - Extract Perfect World annual financial data from WRDS/CSMAR
 - Clean the data to keep annual year-end observations only

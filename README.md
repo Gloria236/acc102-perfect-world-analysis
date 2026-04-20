@@ -37,10 +37,11 @@ This project uses Python to build a clear analytical workflow from data extracti
 The goal is to provide an accessible financial signal for users who care about long-term platform stability and spending risk.
 
 ## 4. Key Findings
-- Perfect World shows stronger average revenue performance than the refined peer-group average during this period
-- Perfect World has a lower average debt ratio than the peer group
-- Perfect World shows stronger operating cash flow support than the peer group
-- Overall, Perfect World appears financially stronger than the refined peer-group average in this analysis
+- Perfect World shows relatively stronger average revenue performance than the refined peer-group average during this period.
+- Perfect World has a lower average debt ratio than the peer group, suggesting relatively lower financial pressure.
+- Perfect World shows stronger operating cash flow support than the peer group, indicating better operating support capacity.
+- Perfect World also performs relatively better on profitability indicators such as net profit margin and ROA in this analysis.
+- Overall, Perfect World appears financially stronger than the refined peer-group average, although this should be interpreted as a financial signal rather than a guarantee of future game success.
 
 ## 5. How to Run
 Open the notebook and run all cells from top to bottom.  

@@ -83,7 +83,7 @@ To run this project:
 5. The notebook will extract, clean, analyse, and visualise the data.
 
 ## 6.Product link
-https://video.xjtlu.edu.cn/Mediasite/MyMediasite/drafts
+https://video.xjtlu.edu.cn/Mediasite/Play/131964dbe01543939ab7fef59df8d2b31d
 
 ## 7. Limitations & Next Steps
 

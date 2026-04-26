@@ -82,9 +82,7 @@ To run this project:
 4. Enter a valid WRDS username when prompted.
 5. The notebook will extract, clean, analyse, and visualise the data.
 
-## 6. Product link
-
-## 7. Limitations & Next Steps
+## 6. Limitations & Next Steps
 
 This project has several limitations.
 

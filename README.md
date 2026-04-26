@@ -72,8 +72,8 @@ Main findings include:
 Overall, Perfect World does not appear financially weak. However, its weaker revenue growth suggests potential pressure on future expansion. For paying players, this means the company may show moderate financial reliability, but it should not be treated as completely low-risk.
 
 ## 5.How to Run
-To run this project:"acc102 notebook+Qingyi Gao+2468280"
-1. Open `perfect_world_analysis.ipynb`.
+To run this project:
+1. Open `acc102 notebook+Qingyi Gao+2468280.ipynb`.
 2. Make sure the following Python packages are installed:
    - pandas
    - numpy
